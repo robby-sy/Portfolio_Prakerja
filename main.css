@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400;500;600;700;800;900&family=Courgette&display=swap');
+body{
+  min-height: 5000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-image: url("image/jumbotron_wallpaper.jpg");
+}
+
+.navbar-brand {
+  color: #fdc7e3;
+  font-family: "Book Antiqua", serif;
+}
+
+.nav-item {
+  color: #fdc7e3;
+  font-family: "Georgia", serif;
+}
+
+#about_image {
+  border-radius: 10px;
+}
+
+#about_title{
+  margin-top: 100px;
+  font-family: "Courgette", cursive;
+}
+
+.display-4,.lead,.team_text{
+  font-family: "Georgia", serif;
+}
+
+#about_text{
+  font-family: "Georgia", serif;
+  text-align: justify;
+}
+
+.navbar{
+  position: fixed;
+  width: 100%;
+  top:0;
+  left:0;
+  z-index: 1;
+}
+
+.about{
+  background-image: url(image/about_wallpaper.jpg);
+}
+
+.image-portfolio {
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+#portofolio_title{
+  padding-top: 100px;
+  font-family: "Courgette", cursive;
+  margin-bottom: 100px;
+}
+
+.banner_header{
+  text-align: center;
+  padding-top: 70px;
+  font-family: "Courgette", cursive;
+  background-color: transparent;
+}
+
+.robot_image {
+  margin-top: 50px;
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+#team{
+  background-color: #ff5500;
+}
+
+#team_header{
+  font-family: "Courgette", cursive;
+  color: white;
+}
+
+.team_pict {
+  margin-top: 50px;
+  border-radius: 10px;
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+#contact_header{
+  font-family: "Courgette", cursive;
+}
